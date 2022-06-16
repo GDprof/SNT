@@ -11,7 +11,7 @@ Sciences Numériques et Technologie
 5. [Informatique embarquée et objets connectés](./connect.md)
 6. [Photographie numérique](./photo.md)
 
-# Horaires et organisation
+## Horaires et organisation
 
 - Cours en classe entière (activités débranchées)
 - TP en demi-classe (En salle informatique)
