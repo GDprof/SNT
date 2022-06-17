@@ -1,1 +1,1 @@
-# LE WEB : Un RESEAU DE RESSOURCES
+# Le Web : un réseau de ressources.
